@@ -1,0 +1,11 @@
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\black\OneDrive\Masaüstü\Ödev\Ödev\obj\Debug\Ödev.Form2.resources
