@@ -1,0 +1,82 @@
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÇALIŞAN.resources
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.REÇETE.resources
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OPERASYON.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OPERASYON.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.REÇETE.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÇALIŞAN.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\muhammed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OPERASYON.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.REÇETE.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÇALIŞAN.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOGİN.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOGİN.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OPERASYON.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.REÇETE.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÇALIŞAN.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\muhammed odev\Muhammed arkadas\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOGİN.resources
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\ödev\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANASAYFA.resources
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOGİN.resources
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.İŞİSTASYONU.resources
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\black\OneDrive\Masaüstü\YedekParçaOtomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
