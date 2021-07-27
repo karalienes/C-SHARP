@@ -1,0 +1,49 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1000"
+        Background="#FFA05F95"
+        Loaded="DbShow"
+        >
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="117" Margin="315,38,0,0" VerticalAlignment="Top" Width="669" Background="#FFD3D07E"/>
+        <TextBox x:Name="text1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="KULLANICI EKLE" VerticalAlignment="Top" Width="120" Background="#FFFFF700"/>
+        <TextBox x:Name="text5" HorizontalAlignment="Left" Height="23" Margin="150,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="text2" HorizontalAlignment="Left" Height="23" Margin="315,3,0,0" TextWrapping="Wrap" Text="KULLANICILAR" VerticalAlignment="Top" Width="120" Background="#FFF4FF00"/>
+        <Button x:Name="button" Content="KullanıcıEkle" HorizontalAlignment="Left" Margin="-2,487,0,0" VerticalAlignment="Top" Width="75"  Height="20" Background="#FF34FF00" Click="button_Click"/>
+        <Button x:Name="button2" Content="MalzemeEkleSil" HorizontalAlignment="Left" Margin="148,487,0,0" VerticalAlignment="Top" Width="102"  Background="#FF00FF15" Height="20" Click="button2_Click"/>
+        <Button x:Name="button1" Content="Malzemeler" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="73,487,0,0" Background="#FF06FF00" Click="button1_Click"/>
+        <TextBox x:Name="text6" HorizontalAlignment="Left" Height="23" Margin="150,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="text7" HorizontalAlignment="Left" Height="23" Margin="150,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="text8" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="119,278,0,0"/>
+        <TextBox x:Name="text10" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,260,0,0"/>
+        <TextBox x:Name="text9" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,232,0,0"/>
+        <TextBox x:Name="text15" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,399,0,0"/>
+        <TextBox x:Name="text14" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,372,0,0"/>
+        <TextBox x:Name="text13" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,342,0,0"/>
+        <TextBox x:Name="text12" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,316,0,0"/>
+        <TextBox x:Name="text11" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="715,288,0,0"/>
+        <TextBox x:Name="text4" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="KULLANICI DEĞİŞTİR" VerticalAlignment="Top" Width="120" Margin="715,204,0,0" Background="#FFF4FF00"/>
+        <TextBox x:Name="text3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Kullanıcı Sil" VerticalAlignment="Top" Width="120" Margin="10,224,0,0" Background="#FFF4FF00"/>
+        <Button x:Name="button3" Content="Sil" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="119,323,0,0"  Background="#FF0068FF" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Oluştur" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="150,142,0,0"  Background="#FF0068FF" Click="button4_Click"/>
+        <Button x:Name="button5" Content="Güncelle" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="715,435,0,0"  Background="#FF0068FF" Click="button5_Click"/>
+        <DataGrid x:Name="dataGrid1" HorizontalAlignment="Left" Height="287" VerticalAlignment="Top" Width="78" Margin="255,224,0,0" Background="#FFD9D685"/>
+        <Label x:Name="label" Content="Kullanıcı Adı&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,232,0,0"/>
+        <Label x:Name="label2" Content="ID" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,396,0,0"/>
+        <Label x:Name="label3" Content="Seviye" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,368,0,0"/>
+        <Label x:Name="label4" Content="Eposta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,339,0,0"/>
+        <Label x:Name="label5" Content="Telefon&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,312,0,0"/>
+        <Label x:Name="label6" Content="Ad soyad" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,288,0,0"/>
+        <Label x:Name="label7" Content="Şifre" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,260,0,0"/>
+        <Label x:Name="label8" Content="Kullanıcı Adı" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,278,0,0"/>
+        <Label x:Name="label9" Content="Yetki Düzeyi&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,102,0,0"/>
+        <Label x:Name="label10" Content="Şifre&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,69,0,0"/>
+        <Label x:Name="label11" Content="Kullanıcı Adı" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="23,38,0,0"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+﻿<Window x:Class="GÖRSEL1.malzeme2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GÖRSEL1"
+        mc:Ignorable="d"
+        Title="malzeme2" Height="450" Width="800"
+        Background="DeepSkyBlue"
+        WindowStartupLocation="CenterScreen"
+        
+        >
+    <Grid Margin="0,0,-0.4,-20">
+        <Label x:Name="label" Content="MALZEME SİL" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,10,0,0" Background="Red"/>
+        <Label x:Name="label2" Content="Seçilen MalzemeID Giriniz:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,36,0,0" RenderTransformOrigin="-1.505,-0.684"/>
+        <Label x:Name="label3" Content="Malzeme Diğer:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="439,176,0,0"/>
+        <Label x:Name="label4" Content="Malzeme Tarih:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="439,151,0,0"/>
+        <Label x:Name="label5" Content="Malzeme Durumu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="439,123,0,0"/>
+        <Label x:Name="label6" Content="Mlazemeden Sorumlu kişi:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="437,95,0,0"/>
+        <Label x:Name="label7" Content="Malzeme Konumu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="437,69,0,0"/>
+        <Label x:Name="label8" Content="Malzeme Türü:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="437,41,0,0"/>
+        <Label x:Name="label9" Content="Malzeme Adı:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="437,15,0,0"/>
+        <Label x:Name="label10" Content="Malzeme Diğer:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,365,0,0"/>
+        <Label x:Name="label11" Content="Malzeme Tarih:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,342,0,0"/>
+        <Label x:Name="label12" Content="Malzemeden Sorumlu Kişi:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,295,0,0"/>
+        <Label x:Name="label13" Content="Malzeme Konumu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,271,0,0"/>
+        <Label x:Name="label14" Content="Malzeme Türü:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,245,0,0"/>
+        <Label x:Name="label15" Content="Malzeme Adı:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,219,0,0"/>
+        <Label x:Name="label16" Content="MALZEME EKLE" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,188,0,0" Background="Red"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,176,0,0"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,151,0,0"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,123,0,0"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,95,0,0"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,67,0,0"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,39,0,0"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,13,0,0"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,368,0,0"/>
+        <TextBox x:Name="textBox9" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,345,0,0"/>
+        <TextBox x:Name="textBox10" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,295,0,0"/>
+        <TextBox x:Name="textBox11" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,270,0,0"/>
+        <TextBox x:Name="textBox12" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,247,0,0"/>
+        <TextBox x:Name="textBox13" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,219,0,0"/>
+        <TextBox x:Name="textBox14" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" Margin="37,67,0,0"/>
+        <Button x:Name="button" Content="TEMİZLE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="204" Margin="471,396,0,0" Background="#FF0015FF" Click="button_Click"/>
+        <Button x:Name="button1" Content="KAYDET" HorizontalAlignment="Left" VerticalAlignment="Top" Width="184" Margin="253,396,0,0" Background="#FF0015FF" Click="button1_Click"/>
+        <Button x:Name="button2" Content="SİL" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="109,108,0,0" Click="button2_Click" Background="#FF0056FF"/>
+        <Button x:Name="button3" Content="DÜZENLE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="709,219,0,0" Background="#FF0015FF" Click="button3_Click"/>
+        <Button x:Name="button4" Content="MalzemeEkleSil" HorizontalAlignment="Left" VerticalAlignment="Top" Width="91" Margin="150,396,0,0" Background="#FFF400FF" Click="button4_Click"/>
+        <Button x:Name="button5" Content="Malzemeler" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="75,396,0,0" Background="#FFF400FF" Click="button5_Click"/>
+        <Button x:Name="button6" Content="KullanıcıEkle" HorizontalAlignment="Left" Width="75" Margin="0,396,0,10" Background="#FFF400FF" Click="button6_Click"/>
+        <Label x:Name="label1" Content="Malzeme Durumu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,321,0,0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" Margin="253,321,0,0"/>
+        <Label x:Name="label17" Content="Malzeme ID:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="437,-8,0,0"/>
+        <TextBox x:Name="textBox15" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Margin="591,-8,0,0"/>
+
+    </Grid>
+</Window>
